@@ -80,10 +80,10 @@ NEWS_API_KEY=your_actual_news_api_key
 streamlit run app.py
 ```
 
-The application will be available at `http://localhost:8501`
-Some commonly available RSS URLs are
+- The application will be available at `http://localhost:8501`
+- Some commonly available RSS URLs are
 ```bash
-[streamlit run app.py](https://finance.yahoo.com/news/rssindex
+https://finance.yahoo.com/news/rssindex
 https://news.google.com/rss/search?q=company+OR+earnings&hl=en-IN&gl=IN&ceid=IN:en
 https://www.moneycontrol.com/rss/latestnews.xml
 https://www.cnbc.com/id/100003114/device/rss/rss.html
