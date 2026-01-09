@@ -1,0 +1,18 @@
+autogen
+mcp
+streamlit
+openai
+pandas
+requests
+beautifulsoup4
+openpyxl
+newspaper3k
+
+# Optional: scheduling (for periodic updates)
+apscheduler
+
+python-dotenv
+
+pyautogen
+lxml
+lxml_html_clean
